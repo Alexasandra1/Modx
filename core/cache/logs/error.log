@@ -1,0 +1,8 @@
+[2024-10-26 13:49:37] (ERROR @ D:\APPS\OSPanel\domains\modx.local\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 (HTTP Response: HTTP/1.1 301 Moved Permanently
+)
+[2024-10-26 13:50:44] (ERROR @ D:\APPS\OSPanel\domains\modx.local\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 (HTTP Response: HTTP/1.1 301 Moved Permanently
+)
+[2024-10-26 14:01:21] (ERROR @ D:\APPS\OSPanel\domains\modx.local\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 (HTTP Response: HTTP/1.1 301 Moved Permanently
+)
+[2024-10-26 14:37:25] (ERROR @ D:\APPS\OSPanel\domains\modx.local\core\model\modx\xmlrss\rssfetch.class.php : 241) User warning: MagpieRSS: Failed to fetch https://forums.modx.com/board.xml?board=294 (HTTP Response: HTTP/1.1 301 Moved Permanently
+)
